@@ -12,6 +12,7 @@
             <Separator Width="200" />
             <TextBox Watermark="Wpisz coś…" Width="200" HorizontalAlignment="Center" />
             <Button Content="Wyślij" HorizontalAlignment="Center" />
+            <CheckBox Content="Zapamiętaj mnie" HorizontalAlignment="Center" />
         </StackPanel>
         <TextBlock Text="Wersja 1.0" VerticalAlignment="Bottom" HorizontalAlignment="Right" Margin="8" Opacity="0.5" />
     </Grid>

@@ -14,3 +14,4 @@ Historia piętnastu zmian wprowadzonych przez agenta.
 | 8 | Zmień napis na przycisku z „Kliknij mnie" na „Wyślij" | 2 | 2 |
 | 9 | Dodaj poziomy separator między napisem a polem tekstowym | 2 | 2 |
 | 10 | Dodaj etykietę „Wersja 1.0" w prawym dolnym rogu okna | 10 | 10 |
+| 11 | Dodaj CheckBox „Zapamiętaj mnie" pod przyciskiem | 2 | 2 |
