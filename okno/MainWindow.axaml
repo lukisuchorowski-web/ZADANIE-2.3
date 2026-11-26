@@ -13,7 +13,7 @@
             <TextBlock Text="Użytkownik:" HorizontalAlignment="Left" Margin="0,0,0,-8" />
             <TextBox Watermark="Wpisz coś…" Width="200" HorizontalAlignment="Center" />
             <TextBox Watermark="Hasło" PasswordChar="●" Width="200" HorizontalAlignment="Center" />
-            <Button Content="Wyślij" HorizontalAlignment="Center" />
+            <Button Content="Wyślij" HorizontalAlignment="Center" Background="#2563EB" Foreground="White" />
             <CheckBox Content="Zapamiętaj mnie" HorizontalAlignment="Center" />
         </StackPanel>
         <TextBlock Text="Wersja 1.0" VerticalAlignment="Bottom" HorizontalAlignment="Right" Margin="8" Opacity="0.5" />

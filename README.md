@@ -17,3 +17,4 @@ Historia piętnastu zmian wprowadzonych przez agenta.
 | 11 | Dodaj CheckBox „Zapamiętaj mnie" pod przyciskiem | 2 | 2 |
 | 12 | Dodaj drugie pole „Hasło" z ukrywaniem znaków | 2 | 2 |
 | 13 | Dodaj etykietę „Użytkownik:" nad polem tekstowym | 2 | 2 |
+| 14 | Ustaw kolor przycisku Wyślij na niebieski | 2 | 2 |
