@@ -10,3 +10,4 @@ Historia piętnastu zmian wprowadzonych przez agenta.
 | 4 | Przełącz motyw aplikacji na ciemny (Dark) | 2 | 2 |
 | 5 | Dodaj przycisk „Kliknij mnie" pod napisem Warsztat | 5 | 5 |
 | 6 | Powiększ napis Warsztat do 32 i pogrub go (Bold) | 2 | 2 |
+| 7 | Dodaj pole tekstowe z podpowiedzią „Wpisz coś…" | 2 | 2 |
