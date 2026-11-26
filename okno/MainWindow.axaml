@@ -7,7 +7,7 @@
         Title="Warsztat — Łukasz S"
         Width="640" Height="400">
     <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Spacing="16">
-        <TextBlock Text="Warsztat" HorizontalAlignment="Center" FontSize="24" />
+        <TextBlock Text="Warsztat" HorizontalAlignment="Center" FontSize="32" FontWeight="Bold" />
         <Button Content="Kliknij mnie" HorizontalAlignment="Center" />
     </StackPanel>
 </Window>
