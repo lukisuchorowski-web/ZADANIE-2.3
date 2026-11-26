@@ -15,3 +15,4 @@ Historia piętnastu zmian wprowadzonych przez agenta.
 | 9 | Dodaj poziomy separator między napisem a polem tekstowym | 2 | 2 |
 | 10 | Dodaj etykietę „Wersja 1.0" w prawym dolnym rogu okna | 10 | 10 |
 | 11 | Dodaj CheckBox „Zapamiętaj mnie" pod przyciskiem | 2 | 2 |
+| 12 | Dodaj drugie pole „Hasło" z ukrywaniem znaków | 2 | 2 |

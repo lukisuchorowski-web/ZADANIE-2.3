@@ -11,6 +11,7 @@
             <TextBlock Text="Warsztat" HorizontalAlignment="Center" FontSize="32" FontWeight="Bold" />
             <Separator Width="200" />
             <TextBox Watermark="Wpisz coś…" Width="200" HorizontalAlignment="Center" />
+            <TextBox Watermark="Hasło" PasswordChar="●" Width="200" HorizontalAlignment="Center" />
             <Button Content="Wyślij" HorizontalAlignment="Center" />
             <CheckBox Content="Zapamiętaj mnie" HorizontalAlignment="Center" />
         </StackPanel>
