@@ -5,3 +5,4 @@ Historia piętnastu zmian wprowadzonych przez agenta.
 | # | Prośba | Linie diff | Rozumiem |
 |---|--------|-----------|---------|
 | 1 | Zastąp napis w oknie wyśrodkowanym napisem „Warsztat" | 2 | 2 |
+| 2 | Zmień tytuł okna na „Warsztat — Łukasz S" | 2 | 2 |
