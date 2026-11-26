@@ -18,3 +18,4 @@ Historia piętnastu zmian wprowadzonych przez agenta.
 | 12 | Dodaj drugie pole „Hasło" z ukrywaniem znaków | 2 | 2 |
 | 13 | Dodaj etykietę „Użytkownik:" nad polem tekstowym | 2 | 2 |
 | 14 | Ustaw kolor przycisku Wyślij na niebieski | 2 | 2 |
+| 15 | Dodaj margines 24px i ciemne tło do panelu formularza | 2 | 2 |
