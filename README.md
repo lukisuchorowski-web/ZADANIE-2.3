@@ -12,3 +12,4 @@ Historia piętnastu zmian wprowadzonych przez agenta.
 | 6 | Powiększ napis Warsztat do 32 i pogrub go (Bold) | 2 | 2 |
 | 7 | Dodaj pole tekstowe z podpowiedzią „Wpisz coś…" | 2 | 2 |
 | 8 | Zmień napis na przycisku z „Kliknij mnie" na „Wyślij" | 2 | 2 |
+| 9 | Dodaj poziomy separator między napisem a polem tekstowym | 2 | 2 |
